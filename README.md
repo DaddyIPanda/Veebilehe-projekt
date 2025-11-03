@@ -7,22 +7,39 @@ Leht sisaldab erinevaid tudengitele huvipakkuvaid kohti koos lühikirjeldustega 
 
 Veebilehe ülesehitus võiks olla selline:
 Pealeht
+
 Projekti nimi ja lühike sissejuhatus: mis leht on ja kellele mõeldud.
+
 Lingid/viited alamlehtedele, et kiirelt orienteeruda.
 
 Alamlehed:
+
 Õhtune ajaveetmine
+
 Populaarsed baarid ja kohad, kus sõpradega aega veeta
+
 Nt Seik, Möku, Trepp, Pirogov, Aparaaditehas
+
 Söök ja jook
+
 Populaarsed kohvikud ja restoranid tudengitele
+
 Has Kebab, Caffeine, Vapiano, Dodo Pizza, Reval Café
+
 Õppimine
+
 Paigad, kus tudeng saab rahulikult õppida
+
 Ülikooli raamatukogu, Delta, Füüsikum
+
 Kasulik
+
 Igapäevased kohad, kus käia, nt poed ja teenindus
+
 COOP, Maxima, Lõunakeskus
+
 Tervis
+
 Spordiklubid, jõusaalid ja veekeskused
+
 Tähtvere spordipark, Lemongym, Aura veekeskus, V SPA
