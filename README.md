@@ -6,14 +6,22 @@ Meie veebilehe eesmärk on koguda Tartu tudengitele parimad vaba aja veetmise v�
 Leht sisaldab erinevaid tudengitele huvipakkuvaid kohti koos lühikirjeldustega ja piltidega. Kui jõuame, võiks juurde panna ka kaardi ja näiteks võimaluse “laikida” või hinnata kohti. 
 
 Veebilehe ülesehitus on selline:
+
 Pealeht:
+
   * Projekti nimi ja lühike sissejuhatus: mis leht on ja kellele mõeldud.
+ 
   * Lingid/viited alamlehtedele, et kiirelt orienteeruda.
+
 Alamlehed:
+
 Õhtune ajaveetmine
+
   * Populaarsed baarid ja kohad, kus sõpradega aega veeta
   * Nt Seik, Möku, Trepp, Pirogov, Aparaaditehas
+
 Söök ja jook
+
   * Populaarsed kohvikud ja restoranid tudengitele
   * Has Kebab, Caffeine, Vapiano, Dodo Pizza, Reval Café
 Õppimine
