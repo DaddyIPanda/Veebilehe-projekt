@@ -1,12 +1,12 @@
 @font-face { 
   font-family: 'Agrandir'; 
-  src: url('Pealehe_abifailid/fonts/Agrandir-WideLight.otf') format('opentype');
+  src: url('assets/fonts/Agrandir-WideLight.otf') format('opentype');
   font-weight: 400;
   font-style: normal;
 }
 @font-face {
   font-family: 'Agrandir';
-  src: url('Pealehe_abifailid/fonts/Agrandir-TextBold.otf') format('opentype');
+  src: url('assets/fonts/Agrandir-TextBold.otf') format('opentype');
   font-weight: 700;
   font-style: normal;
 }
@@ -58,7 +58,6 @@ body {
 }
 
 .hero {
-  background-image: url("images/pealeht-bg.png");
   background-size: cover;
   background-position: center;
   color: #5eff81;
@@ -103,6 +102,15 @@ body {
   margin: 0 auto;
   text-shadow: 1px 1px 6px #00000080;
 }
+
+.pealeht-hero {
+    background-image: url("../images/pealeht-bg.png");
+}
+
+.alamleht1-hero {
+    background-image: url("../images/1-bg.jpg");
+}
+
 
 .footbar {
   background-color: #0d1424;

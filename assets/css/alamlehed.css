@@ -1,0 +1,100 @@
+.koht-kaart {
+  max-width: 960px;
+  margin: 40px auto;
+  padding: 24px 28px;
+  background-color: #ffffff;
+  border-radius: 16px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.06);
+  display: flex;
+  gap: 24px;
+  align-items: stretch;
+}
+
+.koht-tekst {
+  flex: 2;
+}
+
+.koht-tekst h2 {
+  margin-top: 0;
+  margin-bottom: 12px;
+  font-size: 1.8rem;
+  font-weight: 700;
+  color: #0d1424;
+}
+
+.koht-kirjeldus {
+  margin-top: 0;
+  margin-bottom: 16px;
+  line-height: 1.6;
+}
+
+.koht-info {
+  margin-bottom: 16px;
+  padding: 12px 14px;
+  border-left: 4px solid #5eff81;
+  background-color: #f5f7fa;
+  border-radius: 10px;
+}
+
+.koht-info h3 {
+  margin: 0 0 6px 0;
+  font-size: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: #0d1424;
+}
+
+.koht-info p {
+  margin: 2px 0;
+  font-size: 0.95rem;
+}
+
+.koht-info span {
+  font-weight: 700;
+}
+
+.koht-meedia {
+  margin: 0;
+  font-size: 0.95rem;
+}
+
+.koht-meedia span {
+  font-weight: 700;
+}
+
+.koht-meedia a {
+  color: #0d1424;
+  text-decoration: none;
+  border-bottom: 1px solid rgba(94, 255, 129, 0.6);
+  transition: all 0.2s ease;
+}
+
+.koht-meedia a:hover {
+  background-color: #95ffac;
+  border-bottom-color: transparent;
+}
+
+.koht-pilt {
+  flex: 1.1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.koht-pilt img {
+  width: 100%;
+  max-width: 260px;
+  border-radius: 14px;
+  object-fit: cover;
+  box-shadow: 0 6px 14px rgba(0, 0, 0, 0.08);
+}
+
+@media (max-width: 768px) {
+  .koht-kaart {
+    flex-direction: column;
+  }
+
+  .koht-pilt {
+    order: -1;
+  }
+}
