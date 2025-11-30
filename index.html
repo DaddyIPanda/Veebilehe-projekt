@@ -4,64 +4,86 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Vudin</title>
-    <link rel="stylesheet" href="Pealehe_abifailid/pealeht-stiilid.css">
+    <link rel="stylesheet" href="assets/css/stiilid.css">
+    <link rel="stylesheet" href="assets/css/gallery.css">
+    <script src="assets/javascript/galerii-nuppud.js"></script>
 </head>
 <body>
     <nav class="navbar">
         <ul>
             <li><a class="active" href="index.html">
-                <img src="Pealehe_abifailid/images/web.png" alt="Koduleht">
+                <img src="assets/images/web.png" alt="Koduleht">
                 Kodu</a></li>
-            <li><a href="1.alamleht.html">
-                <img src="Pealehe_abifailid/images/cheers.png" alt="Õhtune ajaveetmine ikoon">
-                Õhtune ajaveetmineb  
-            </a></li>
-            <li><a href="2.alamleht.html">
-                <img src="Pealehe_abifailid/images/serving-dish.png" alt="Söök ja jook ikoon">
+
+            <li class="dropdown">
+                <a href="1.alamleht_ohtuneajaveetmine.html">
+                    <img src="assets/images/night-mode.png" alt="Õhtune ajaveetmine ikoon">
+                    Õhtune ajaveetmine
+                </a>
+                <div class="dropdown-content">
+                    <a href="1.alamleht_ohtuneajaveetmine.html#Baarid">
+                        <img src="assets/images/cheers.png" alt="Baarid">
+                        Baarid
+                    </a>
+                    <a href="1.alamleht_ohtuneajaveetmine.html#Üritused Ja Kluubid">
+                        <img src="assets/images/dj.png" alt="Klubid">
+                        Klubid
+                    </a>
+                </div>
+            </li>
+
+            <li><a href="2.alamleht_sookjajook.html">
+                <img src="assets/images/serving-dish.png" alt="Söök ja jook ikoon">
                 Söök ja jook
             </a></li>
-            <li><a href="3.alamleht.html">
-                <img src="Pealehe_abifailid/images/genres.png" alt="Õppimine ikoon">
+
+            <li><a href="3.alamleht_kasulik.html">
+                <img src="assets/images/genres.png" alt="Õppimine ikoon">
                 Õppimine
             </a></li>
-            <li><a href="4.alamleht.html">
-                <img src="Pealehe_abifailid/images/store.png" alt="Kasulik ikoon">
+
+            <li><a href="4.alamleht_õppimine.html">
+                <img src="assets/images/store.png" alt="Kasulik ikoon">
                 Kasulik
             </a></li>
-            <li><a href="5.alamleht.html">
-                <img src="Pealehe_abifailid/images/mental-health.png" alt="Tervis ikoon">
+
+            <li><a href="5.alamleht_loodusjatervis.html">
+                <img src="assets/images/mental-health.png" alt="Tervis ikoon">
                 Tervis
             </a></li>
         </ul>
     </nav>
 
     <main>
-        <section class="hero">
+        <section class="hero pealeht-hero">
             <h1>Tudengitele huvipakkuvad kohad</h1>
             <p>Siin on kogutud Tartu tudengitele parimad vaba aja veetmise võimalused, et ühest kohast leiaks kõik vajalikud kohad: mõnusad kohvikud, söögikohad, õppimispaigad, spordiklubid ja lõõgastumisvõimalused.</p>
         </section>
 
         <section class="gallery">
-            <h2>**Galerii**</h2>
+            <h2>Galerii</h2>
+            <br>  
+            <div class="container">
+                <div class="wrapper">
+                    <!-- Lisame galerii pildid hiljem -->
+                    <img src="https://i.pinimg.com/originals/2b/de/de/2bdede0647e3cdf75b44ea33723201d9.jpg">
+                    <img src="https://images6.alphacoders.com/462/thumb-1920-462371.jpg">
+                    <img src="https://images5.alphacoders.com/343/thumb-1920-343645.jpg">
+                    <img src="https://cdn.wallpapersafari.com/24/98/dwMtqD.jpg">
+                </div>
+
+                    <div class="slider-nav">
+                        <div class="slider-dot active" data-slide="0"></div>
+                        <div class="slider-dot" data-slide="1"></div>
+                        <div class="slider-dot" data-slide="2"></div>
+                        <div class="slider-dot" data-slide="3"></div>
+                    </div>
+                    <div class="slider-arrows">
+                        <button class="arrow prev">&#10094;</button>
+                        <button class="arrow next">&#10095;</button>
+                    </div>
             <br>
-            <br>
-            <br>
-            <br>
-            <br>
-            <br>
-            <br>
-            <br>
-            <br>
-            <br>
-            <br>
-            <br>
-            <br>
-            <br>
-            <br>
-            <br>
-            <br>
-            <br>
-            <!-- Lisame galerii pildid hiljem -->
+        </div>
         </section>
     </main>
 
