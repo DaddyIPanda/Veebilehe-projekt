@@ -171,6 +171,21 @@ body {
     background-image: url("../images/1-bg.jpg");
 }
 
+.alamleht2-hero {
+    background-image: url("../images/2-bg.jpg");
+}
+
+.alamleht3-hero {
+    background-image: url("../images/3-bg.jpg");
+}
+
+.alamleht4-hero {
+    background-image: url("../images/4-bg.jpg");
+}
+
+.alamleht5-hero {
+    background-image: url("../images/5-bg.jpg");
+}
 
 .footbar {
   background-color: #0d1424;
