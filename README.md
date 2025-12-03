@@ -1,4 +1,4 @@
-**Ülikooli projekt: veebilehe loomine**
+# Ülikooli projekt: veebilehe loomine
 
 **Tiimiliikmed:** Nikita Jakovlev, Greteliis Kokk, Maria Elisa Vassiljeva
 
