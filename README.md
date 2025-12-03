@@ -1,40 +1,29 @@
-# Veebilehe-projekt
-Ülikooli projekt: veebilehe loomine
+**Ülikooli projekt: veebilehe loomine**
 
-Meie veebilehe eesmärk on koguda Tartu tudengitele parimad vaba aja veetmise võimalused, et ühest kohast leiaks kõik vajalikud kohad: mõnusad kohvikud, söögikohad, õppimispaigad, spordiklubid ja lõõgastumisvõimalused. Tahame, et see oleks lihtne ja kasulik eelkõige neile, kes on just Tartusse kolinud ja ei tunne linna veel hästi.
+**Tiimiliikmed:** Nikita Jakovlev, Greteliis Kokk, Maria Elisa Vassiljeva
 
-Leht sisaldab erinevaid tudengitele huvipakkuvaid kohti koos lühikirjeldustega ja piltidega. Kui jõuame, võiks juurde panna ka kaardi ja näiteks võimaluse “laikida” või hinnata kohti. 
+Veebileht on loodud eesmärgiga koguda Tartu tudengitele parimad vaba aja veetmise võimalused, et ühest kohast leiaks kõik vajalik: mõnusad kohvikud, söögikohad, õppimispaigad, spordiklubid ja lõõgastumisvõimalused. Leht on mõeldud eelkõige neile, kes on Tartusse kolinud ja soovivad kiirelt linnaelu tundma õppida. 
 
-Veebilehe ülesehitus on selline:
+Leht sisaldab erinevaid tudengitele huvipakkuvaid kohti koos lühikirjeldustega ja piltidega.
 
-Pealeht:
+**Veebilehe ülesehitus:**
 
-  * Projekti nimi ja lühike sissejuhatus: mis leht on ja kellele mõeldud.
-  * Lingid/viited alamlehtedele, et kiirelt orienteeruda.
+Pealeht: lühike sissejuhatus ja kategooriate sektsioon, kust saab liikuda alamlehtedele.
 
 Alamlehed:
 
-Õhtune ajaveetmine
+  * Õhtune ajaveetmine – baarid, ürituskohad ja õhtused tegevused.
 
-  * Populaarsed baarid ja kohad, kus sõpradega aega veeta
-  * Nt Seik, Möku, Trepp, Pirogov, Aparaaditehas
+  * Söök ja jook – kohvikud, kiirtoidukohad ja restoranid.
 
-Söök ja jook
+  * Õppimine – paigad, kus tudengid saavad rahulikult õppida.
 
-  * Populaarsed kohvikud ja restoranid tudengitele
-  * Has Kebab, Caffeine, Vapiano, Dodo Pizza, Reval Café
+  * Kasulik – igapäevaselt vajalikud kohad (nt poed).
 
-Õppimine
+  * Tervis – spordiklubid, jõusaalid ja veekeskused.
 
-* Paigad, kus tudeng saab rahulikult õppida
-* Ülikooli raamatukogu, Delta, Füüsikum
 
-Kasulik
+Veebileht on paigutatud ka serverisse kodu.ut.ee, mis võimaldab seda avalikult vaadata.
 
-  * Igapäevased kohad, kus käia, nt poed ja teenindus
-  * COOP, Maxima, Lõunakeskus
+Link veebilehele: [https://kodu.ut.ee/~mariaelisa/Veebilehe-projekt/index.html](https://kodu.ut.ee/~mariaelisa/Veebilehe-projekt/index.html)
 
-Tervis
-
-  * Spordiklubid, jõusaalid ja veekeskused
-  * ähtvere spordipark, Lemongym, Aura veekeskus, V SPA
