@@ -1,6 +1,6 @@
 # Ülikooli projekt: veebilehe loomine
 
-**Tiimiliikmed:** Nikita Jakovlev, Greteliis Kokk, Maria Elisa Vassiljeva
+Tiimiliikmed: Nikita Jakovlev, Greteliis Kokk, Maria Elisa Vassiljeva
 
 Veebileht on loodud eesmärgiga koguda Tartu tudengitele parimad vaba aja veetmise võimalused, et ühest kohast leiaks kõik vajalik: mõnusad kohvikud, söögikohad, õppimispaigad, spordiklubid ja lõõgastumisvõimalused. Leht on mõeldud eelkõige neile, kes on Tartusse kolinud ja soovivad kiirelt linnaelu tundma õppida. 
 
