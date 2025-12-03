@@ -23,7 +23,7 @@ Alamlehed:
   * Tervis – spordiklubid, jõusaalid ja veekeskused.
 
 
-Veebileht on paigutatud ka serverisse kodu.ut.ee, mis võimaldab seda avalikult vaadata.
+Veebileht on paigutatud serverisse kodu.ut.ee, mis võimaldab seda avalikult vaadata.
 
 Link veebilehele: [https://kodu.ut.ee/~mariaelisa/Veebilehe-projekt/index.html](https://kodu.ut.ee/~mariaelisa/Veebilehe-projekt/index.html)
 
