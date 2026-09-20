@@ -1,4 +1,4 @@
-document.addEventListener('DOMContentLoaded', function() {
+document.addEventListener('DOMContentLoaded', function () {
     // Initsialiseeri slider kui DOM on laaditud
     initSlider();
 });
